@@ -41,6 +41,10 @@ button {
     font-family: 'Odibee Sans', cursive; 
 }
 
+button:hover{
+    cursor: pointer;
+}
+
 h2{
     text-align: center;
     font-size: 30px;
